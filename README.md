@@ -1,1 +1,1 @@
-# Dual-attention-network-for-MLTC
+# Label-Specific Document Representation for Multi-Label Text Classification
